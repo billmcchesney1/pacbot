@@ -69,9 +69,9 @@
 		</dependency>
 
 		<dependency>
-			<groupId>ch.qos.logback</groupId>
-			<artifactId>logback-access</artifactId>
-			<version>1.2.3</version>
+			<groupId>ch.qos.logback.access</groupId>
+			<artifactId>logback-access-common</artifactId>
+			<version>${logback-access-project.version}</version>
 		</dependency>
 
 
